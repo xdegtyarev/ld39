@@ -1,0 +1,14 @@
+.idea
+*.csproj
+*.sublime-workspace
+*.swp
+*.userprefs
+*.sln
+*.iml
+*.svn
+*/Temp
+Library
+Temp
+.DS_Store
+/ios-build
+*.apk

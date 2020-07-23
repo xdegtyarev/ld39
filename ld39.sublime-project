@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+		    "file_include_patterns":
+            [
+                "*.cs",
+                "*.shader",
+                "*.json"
+            ],
+            "folder_exclude_patterns":
+            [
+                "Library",
+                "ProjectSettings",
+                "Temp"
+            ]
+		}
+	],
+	 "solution_file": "./ld39.sln"
+}
